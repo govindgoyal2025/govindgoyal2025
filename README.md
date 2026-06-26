@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Govind Goyal 👋
 
-<!--
-**govindgoyal2025/govindgoyal2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Mechanical Engineering Student
 
-Here are some ideas to get you started:
+## Skills
+- AutoCAD
+- SolidWorks
+- Catia
+- GD&T
+- Engineering Drawings
+- Manufacturing Processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- ANSYS Workbench
+- MATLAB Basics
+
+## Projects
+-Solar-Powered Grass Cutter
+- Flood Water Detection System
+- CNG Safety Component Design
+
+## Career Goal
+Aspiring Mechanical Design / CAE Engineer focused on product design, simulation, and engineering analysis.
