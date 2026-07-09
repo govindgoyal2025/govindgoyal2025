@@ -47,7 +47,6 @@ Currently building a professional engineering portfolio by designing real mechan
 
 🔄 Project 07 –  Bench Vice
 
-🔄 Project 08 – Worm Gearbox
 
 ## Career Goal
 Aspiring Mechanical Design / CAE Engineer focused on product design, simulation, and engineering analysis.
