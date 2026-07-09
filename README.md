@@ -1,23 +1,53 @@
-# Hi, I'm Govind Goyal 👋
+👋 Hi, I'm Govind Goyal
 
-🎓 B.Tech Mechanical Engineering Student
+B.Tech Mechanical Engineering Student
+Aspiring Mechanical Design Engineer
+
+I am passionate about Mechanical Product Design, CAD Modeling, Simulation, and Product Development.
+
+Currently building a professional engineering portfolio by designing real mechanical products using SOLIDWORKS.
 
 ## Skills
-- AutoCAD
-- SolidWorks
-- Catia
-- GD&T
-- Engineering Drawings
-- Manufacturing Processes
+
+• SOLIDWORKS
+• SOLIDWORKS Simulation
+• Mastercam
+• AutoCAD
+• CATIA V5
+• GD&T
+• Engineering Drawings
+• Mechanical Assembly
+• Design for Manufacturing (DFM)
 
 ## Currently Learning
-- ANSYS Workbench
-- MATLAB Basics
+
+• Siemens NX
+• Finite Element Analysis (FEA)
+• MATLAB
 
 ## Projects
--Solar-Powered Grass Cutter
-- Flood Water Detection System
-- CNG Safety Component Design
+
+Solar Grass Cutter
+Flood Detection
+CNG Safety
+
+## Mechanical Design Portfolio
+
+✔ Project 01 – Butterfly Valve (Completed)
+
+🔄 Project 02 – Toggle Clamp
+
+🔄 Project 03 – Hydraulic Cylinder
+
+🔄 Project 04 – Root Blower Compressor
+
+🔄 Project 05 – Four-Cylinder Engine
+
+🔄 Project 06 – Steam Stop Valve
+
+🔄 Project 07 –  Bench Vice
+
+🔄 Project 08 – Worm Gearbox
 
 ## Career Goal
 Aspiring Mechanical Design / CAE Engineer focused on product design, simulation, and engineering analysis.
