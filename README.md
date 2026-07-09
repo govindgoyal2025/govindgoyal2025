@@ -27,9 +27,9 @@ Currently building a professional engineering portfolio by designing real mechan
 
 ## Projects
 
-Solar Grass Cutter
-Flood Detection
-CNG Safety
+1. Solar Grass Cutter
+2. Flood Detection
+3. CNG Safety
 
 ## Mechanical Design Portfolio
 
