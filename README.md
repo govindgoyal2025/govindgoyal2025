@@ -35,17 +35,17 @@ Currently building a professional engineering portfolio by designing real mechan
 
 ✔ Project 01 – Butterfly Valve (Completed)
 
-🔄 Project 02 – Toggle Clamp
+🔄 Project 02 – Pipe Vice (Completed)
 
-🔄 Project 03 – Hydraulic Cylinder
+🔄 Project 03 –Universal Coupling (Completed)
 
-🔄 Project 04 – Root Blower Compressor
+🔄 Project 04 – Four-Cylinder Engine (Completed)
 
-🔄 Project 05 – Four-Cylinder Engine
+🔄 Project 05 – Toggle Clamp (Completed)
 
-🔄 Project 06 – Steam Stop Valve
+🔄 Project 06 – Hydraulic Cylinder (Completed)
 
-🔄 Project 07 –  Bench Vice
+🔄 Project 07 –  Bench Vice 
 
 
 ## Career Goal
